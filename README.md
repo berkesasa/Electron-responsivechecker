@@ -206,9 +206,3 @@ This project is licensed under the [ISC License](LICENSE).
 - [Electron](https://www.electronjs.org/) - Desktop app framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Create React App](https://create-react-app.dev/) - React project structure
-
----
-
-<div align="center">
-  <strong>⭐ Don't forget to star this project if you liked it! ⭐</strong>
-</div> 
